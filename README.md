@@ -5,7 +5,7 @@ Assignment 1 W7D5 - SDA - Software QA Bootcamp
 Give an example of a web element using ID (ID  method) (use the Coding Dojo websit)
 
 # Answer
-before running the code, there are some steps that need to take considered:
+Before running the code, there are some steps that need to take considered:
 
 
 First:
